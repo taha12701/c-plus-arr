@@ -23,8 +23,5 @@ int main(){
   int size2=4;
 
   intersection(arr1,arr2,size1,size2);
-
-
-
   
 }
